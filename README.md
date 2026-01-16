@@ -1,2 +1,4 @@
-# Coffee-Sales-Dashboard-Excel
-Created a dynamic Coffee Sales Dashboard in Excel that transforms raw transactional data into actionable insights. Implemented PivotTables/Charts and slicers to enable quick drill-down by time, geography, and product attributes, supporting business-ready reporting and analysis.
+# Coffee Sales Dashboard (Microsoft Excel)
+
+##  Project Objective
+This project is an end-to-end Excel analytics solution built on coffee orders data. It covers data preparation, analysis using PivotTables/PivotCharts, and an interactive dashboard with slicers for decision-making.
