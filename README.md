@@ -64,7 +64,7 @@ This project is an end-to-end Excel analytics solution built on coffee orders da
 - Compared coffee types, roast types, sizes to optimize product mix and promotions.
 - Enabled quick drill-down insights through slicers, improving decision-making speed and reporting clarity.
 
-- ## Final Conclusion (Coffee Sales Excel Dashboard Project)
+## Final Conclusion (Coffee Sales Excel Dashboard Project)
 
 This project successfully transforms raw coffee orders data into a clean, structured, and interactive Excel dashboard for sales decision-making. By integrating Orders, Customers, and Products data, the solution enables quick analysis of sales trends over time, country-wise performance, and product/customer contribution using PivotTables, PivotCharts, and slicers. Overall, the dashboard provides a reliable, refresh-ready reporting system that improves visibility into key revenue drivers, supports product and market strategy, and allows stakeholders to monitor performance efficiently without manual reporting.
 
