@@ -52,3 +52,5 @@ This project is an end-to-end Excel analytics solution built on coffee orders da
 - Clean dataset, remove errors, create sales and time-based calculated fields.
 - Build PivotTables/PivotCharts; add slicers and timelines for interactive filtering analysis.
 - Finalize dashboard layout, test refresh, document steps, upload to GitHub professionally.
+  
+  - Scrrenshort of Dashboard <a href="https://github.com/Raginiyadav24/Coffee-Sales-Dashboard-Excel/blob/main/Screenshot%202026-01-16%20103106.png">Dashboard Screenshort </a>
