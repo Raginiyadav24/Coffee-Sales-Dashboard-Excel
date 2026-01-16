@@ -43,3 +43,5 @@ This project is an end-to-end Excel analytics solution built on coffee orders da
 - What is the Profit Margin (%) overall?
 - Which products / coffee types / roast types have the highest profit contribution?
 - Which items have high sales but low margin (priority for pricing review)?
+
+- Dashboard Interaction <a href="https://github.com/Raginiyadav24/Coffee-Sales-Dashboard-Excel/blob/main/DATA1coffeeOrdersData.xlsx">View Coffe Sales Dashboard</a>
