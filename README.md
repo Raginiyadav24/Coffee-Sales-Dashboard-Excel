@@ -47,8 +47,8 @@ This project is an end-to-end Excel analytics solution built on coffee orders da
 - Dashboard Interaction <a href="https://github.com/Raginiyadav24/Coffee-Sales-Dashboard-Excel/blob/main/DATA1coffeeOrdersData.xlsx">View Coffe Sales Dashboard</a>
 
 ## Process
--Objective & KPIs: Define the dashboard goal and finalize KPIs such as Total Sales, Orders, Quantity, AOV, Top Customers, and Country/Product performance.
--Data Import & Structuring: Import Orders, Customers, and Products sheets and convert them into clean, standardized Excel Tables with correct formats and IDs.
--Cleaning & Feature Creation: Remove blanks/duplicates, validate data types, and create calculated fields like Sales (Quantity × Unit Price) and Date-based fields (Month/Year).
--Analysis Build (Pivots/Charts): Create PivotTables and PivotCharts for trends, geography, and product/customer insights, then add slicers/timeline for interactivity.
--Dashboard Finalization & GitHub Upload: Design a clean dashboard layout, test slicer connections and refresh, document usage steps, add screenshots, and publish the project to GitHub with a strong README.
+- Define business objective and KPIs for coffee sales performance tracking dashboard.
+- Import Orders, Customers, Products data; format tables and standardize columns.
+- Clean dataset, remove errors, create sales and time-based calculated fields.
+- Build PivotTables/PivotCharts; add slicers and timelines for interactive filtering analysis.
+- Finalize dashboard layout, test refresh, document steps, upload to GitHub professionally.
