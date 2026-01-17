@@ -53,7 +53,7 @@ This project is an end-to-end Excel analytics solution built on coffee orders da
 - Build PivotTables/PivotCharts; add slicers and timelines for interactive filtering analysis.
 - Finalize dashboard layout, test refresh, document steps, upload to GitHub professionally.
   
-- Snapshort of Dashboard <a href="https://github.com/Raginiyadav24/Coffee-Sales-Dashboard-Excel/blob/main/Screenshot%202026-01-16%20103106.png">Dashboard Screenshort </a>
+## Snapshort of Dashboard <a href="https://github.com/Raginiyadav24/Coffee-Sales-Dashboard-Excel/blob/main/Screenshot%202026-01-16%20103106.png">Dashboard Screenshort </a>
 
 <img width="1837" height="758" alt="Screenshot 2026-01-16 103106" src="https://github.com/user-attachments/assets/9c165f90-22a1-4ba6-900f-470485607e1c" />
 
